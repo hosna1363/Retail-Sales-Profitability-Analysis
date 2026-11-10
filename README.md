@@ -95,20 +95,21 @@ Sample Superstore public sample dataset.
 
 ---
 
+
 ## Report Preview
 
 ### 1. Executive Overview
-![Executive Overview](Screenshots/Executive Overview_01.png)
+![Executive Overview](Screenshots/Executive%20Overview_01.png)
 
 ### 2. Product & Profitability Analysis
-![Product and Profitability Analysis](Screenshots/Product & Profitability Analysis_02.png)
+![Product and Profitability Analysis](Screenshots/Product%20%26%20Profitability%20Analysis_02.png)
 
 ### 3. Customer & Regional Analysis
-![Customer and Regional Analysis](Screenshots/Customer & Regional Analysis_03.png)
+![Customer and Regional Analysis](Screenshots/Customer%20%26%20Regional%20Analysis_03.png)
 
 ### 4. Shipping Performance Analysis
-![Shipping Performance Analysis](Screenshots/Shipping Performance Analysis_04.png)
+![Shipping Performance Analysis](Screenshots/Shipping%20Performance%20Analysis_04.png)
 
 ### 5. Executive Dashboard
-![Executive Dashboard](Screenshots/Retail Business Performance Dashboard_05.png)
+![Executive Dashboard](Screenshots/Retail%20Business%20Performance%20Dashboard_05.png)
 
