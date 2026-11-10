@@ -86,7 +86,7 @@ Order-to-ship time, shipping mode comparisons, regional shipping performance, an
 
 Sample Superstore public sample dataset.
 
-**Note:** This is an educational portfolio project using sample data. Shipping analysis measures the time between order date and ship date, not final customer delivery time.
+**Note:** This is a portfolio project using sample data. Shipping analysis measures the time between order date and ship date, not final customer delivery time.
 
 ---
 
