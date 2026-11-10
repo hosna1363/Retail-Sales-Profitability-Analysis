@@ -92,3 +92,23 @@ Sample Superstore public sample dataset.
 
 **Author:** Hosna Zolfaghari  
 **Focus:** Data Analytics | Business Intelligence | Power BI
+
+---
+
+## Report Preview
+
+### 1. Executive Overview
+![Executive Overview](Screenshots/Executive Overview_01.png)
+
+### 2. Product & Profitability Analysis
+![Product and Profitability Analysis](Screenshots/Product & Profitability Analysis_02.png)
+
+### 3. Customer & Regional Analysis
+![Customer and Regional Analysis](Screenshots/Customer & Regional Analysis_03.png)
+
+### 4. Shipping Performance Analysis
+![Shipping Performance Analysis](Screenshots/Shipping Performance Analysis_04.png)
+
+### 5. Executive Dashboard
+![Executive Dashboard](Screenshots/Retail Business Performance Dashboard_05.png)
+
