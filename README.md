@@ -113,3 +113,13 @@ Sample Superstore public sample dataset.
 ### 5. Executive Dashboard
 ![Executive Dashboard](Screenshots/Retail%20Business%20Performance%20Dashboard_05.png)
 
+
+---
+
+## Download the Power BI Project
+
+[Download Retail Sales & Profitability Analysis (.pbix)](Retail_Sales_Profitability_Analysis.pbix)
+
+Open the file using Power BI Desktop.
+
+
