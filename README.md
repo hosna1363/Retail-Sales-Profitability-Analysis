@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-An interactive Power BI report and executive dashboard developed using the Sample Superstore dataset to analyze retail business performance, profitability, customer behavior, and shipping operations.
+An interactive Power BI report and executive dashboard developed using the Superstore dataset to analyze retail business performance, profitability, customer behavior, and shipping operations.
 
 The project demonstrates an end-to-end Business Intelligence workflow, from data preparation and modeling to DAX calculations, interactive visualizations, and business insights.
 
@@ -86,7 +86,7 @@ Order-to-ship time, shipping mode comparisons, regional shipping performance, an
 
 Sample Superstore public sample dataset.
 
-**Note:** This is a portfolio project using sample data. Shipping analysis measures the time between order date and ship date, not final customer delivery time.
+**Note:**  Shipping analysis measures the time between order date and ship date, not final customer delivery time.
 
 ---
 
